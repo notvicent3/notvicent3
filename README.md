@@ -13,4 +13,4 @@ Help us contributing  👉 [GPT-Researcher](https://github.com/assafelovic/gpt-r
 
 ## 📧 Contact
 
-[![Email](https://img.shields.io/badge/Email-kerberosai%40proton.me-blue?style=for-the-badge)](mailto:kerberosai@proton.me)
+[![Email](https://img.shields.io/badge/Email-vicentei%40datawise.global-blue?style=for-the-badge)](mailto:vicente@datawise.global)
