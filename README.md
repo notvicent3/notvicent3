@@ -10,7 +10,8 @@ Help us contributing  👉 [GPT-Researcher](https://github.com/assafelovic/gpt-r
 
 [![Video Thumbnail](https://user-images.githubusercontent.com/13554167/252265342-a00c89a6-a295-4dd0-b58d-098a31c40fda.mp4)](https://user-images.githubusercontent.com/13554167/252265342-a00c89a6-a295-4dd0-b58d-098a31c40fda.mp4)
 
+[![MindsDB Tests & Deploy](https://github.com/notvicent3/mindsdb/actions/workflows/mindsdb.yml/badge.svg?event=check_run)](https://github.com/notvicent3/mindsdb/actions/workflows/mindsdb.yml)
 
 ## 📧 Contact
 
-[![Email](https://img.shields.io/badge/Email-vicent3-blue?style=for-the-badge)](mailto:vicente@datawise.global)
+[![Email](https://img.shields.io/badge/Email-vicent3-blue?style=for-the-badge)](@notvicent3)
