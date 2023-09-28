@@ -16,4 +16,4 @@ Help us contributing  👉 [GPT-Researcher](https://github.com/assafelovic/gpt-r
 
 ## 📧 Contact
 
-[![X.com](https://img.shields.io/badge/@notvicent3-red?style=for-the-badge)](@notvicent3)
+[![X.com](https://img.shields.io/badge/@notvicent3-red?style=for-the-badge)](https://x.com/notvicent3)
