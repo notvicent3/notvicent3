@@ -10,10 +10,6 @@ Help us contributing  👉 [GPT-Researcher](https://github.com/assafelovic/gpt-r
 
 [![Video Thumbnail](https://user-images.githubusercontent.com/13554167/252265342-a00c89a6-a295-4dd0-b58d-098a31c40fda.mp4)](https://user-images.githubusercontent.com/13554167/252265342-a00c89a6-a295-4dd0-b58d-098a31c40fda.mp4)
 
-### Testing things
-
-[![MindsDB Tests & Deploy](https://github.com/notvicent3/mindsdb/actions/workflows/mindsdb.yml/badge.svg?event=status)](https://github.com/notvicent3/mindsdb/actions/workflows/mindsdb.yml)
-
 ## 📧 Contact
 
 [![X.com](https://img.shields.io/badge/@notvicent3-red?style=for-the-badge)](https://x.com/notvicent3)
