@@ -6,9 +6,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Cirq](https://img.shields.io/badge/Cirq-14213D?style=for-the-badge&logo=quantum&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase Google](https://img.shields.io/badge/Firebase%20Google-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
-# Stats
-![Repositorios públicos](https://img.shields.io/github/public_repos/notvicent3)
-
+# 📊 Stats
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=notvicent3&show_icons=true&count_private=true&theme=radical) ![Estadísticas de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=notvicent3&langs_count=8&layout=compact&theme=radical)
 
 ---
 ## 📁 GPT-Researcher 💜  
