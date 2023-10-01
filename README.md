@@ -28,7 +28,8 @@
 
 ---
 https://www.youtube.com/watch?v=dkM9GxaCow4
-![image](https://github.com/notvicent3/notvicent3/assets/132854638/c1ce5936-222b-4a6b-983a-087ce73fb139)
+![image](https://github.com/notvicent3/notvicent3/assets/132854638/6a261e33-9af9-4881-afe8-e5f78de9f08e)
+
 
 
 
