@@ -15,12 +15,11 @@
 
 [![Button](https://img.shields.io/badge/GPTRESEARCHER-Show2USyourLOVE-purple?style=for-the-badge)](https://github.com/assafelovic/gpt-researcher) 
 
+*Help us contributing, please  👉* [GPT-Researcher](https://github.com/assafelovic/gpt-researcher/blob/master/CONTRIBUTING.md) 
+
 **📖 Wiki3 🧡** 
 
 [![Button](https://img.shields.io/badge/WikiTRES-orange?style=for-the-badge)](https://github.com/notvicent3/wiki3) 
-
-
-*Help us contributing, please  👉* [GPT-Researcher](https://github.com/assafelovic/gpt-researcher/blob/master/CONTRIBUTING.md) 
 
 **📧 Contact**
 
