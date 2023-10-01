@@ -27,8 +27,9 @@
 [![X.com](https://img.shields.io/badge/@notvicent3-red?style=for-the-badge)](https://x.com/notvicent3)
 
 ---
-[![Bad Piggies Drip](https://img.youtube.com/vi/dkM9GxaCow4/0.jpg)](https://www.youtube.com/watch?v=dkM9GxaCow4)
-![image](https://github.com/notvicent3/notvicent3/assets/132854638/5d1f0836-352e-4c27-9a5a-51317223629c?widht=300px)
+https://www.youtube.com/watch?v=dkM9GxaCow4
+![image](https://github.com/notvicent3/notvicent3/assets/132854638/c1ce5936-222b-4a6b-983a-087ce73fb139)
+
 
 
 
