@@ -12,8 +12,6 @@
 
 Help us contributing  👉 [GPT-Researcher](https://github.com/assafelovic/gpt-researcher/blob/master/CONTRIBUTING.md) 
 
-[![Video Thumbnail](https://user-images.githubusercontent.com/13554167/252265342-a00c89a6-a295-4dd0-b58d-098a31c40fda.mp4)](https://user-images.githubusercontent.com/13554167/252265342-a00c89a6-a295-4dd0-b58d-098a31c40fda.mp4)
-
 ---
 ## 📧 Contact
 
