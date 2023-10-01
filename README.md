@@ -28,7 +28,7 @@
 
 ---
 [![Bad Piggies Drip](https://img.youtube.com/vi/dkM9GxaCow4/0.jpg)](https://www.youtube.com/watch?v=dkM9GxaCow4)
-![image](https://github.com/notvicent3/notvicent3/assets/132854638/5d1f0836-352e-4c27-9a5a-51317223629c){:width="300px"}
+![image](https://github.com/notvicent3/notvicent3/assets/132854638/5d1f0836-352e-4c27-9a5a-51317223629c?widht=300px)
 
 
 
