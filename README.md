@@ -10,7 +10,12 @@
 
 *Since 2009 working with OVH environment*
 
-![Firebase Google](https://img.shields.io/badge/Firebase%20Google-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![OVHcloud](https://img.shields.io/badge/OVHcloud-212b35?style=for-the-badge&logo=ovh&logoColor=white) 
+![OVHcloud](https://img.shields.io/badge/OVHcloud-212b35?style=for-the-badge&logo=ovh&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase Google](https://img.shields.io/badge/Firebase%20Google-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 
 **📊 Public Stats**
 
