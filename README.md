@@ -26,11 +26,11 @@
 [![vicente@asimov.dev](https://img.shields.io/badge/vicente@asimov.dev-green?style=for-the-badge)](mailto:vicente@asimov.dev)
 [![X.com](https://img.shields.io/badge/@notvicent3-red?style=for-the-badge)](https://x.com/notvicent3)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://www.youtube.com/embed/dkM9GxaCow4" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" frameborder="0" allowfullscreen="true"></iframe>
-</div>
-
+---
+[![Bad Piggies Drip](https://img.youtube.com/vi/dkM9GxaCow4/0.jpg)](https://www.youtube.com/watch?v=dkM9GxaCow4)
 ![image](https://github.com/notvicent3/notvicent3/assets/132854638/5d1f0836-352e-4c27-9a5a-51317223629c)
+
+
 
 
 
