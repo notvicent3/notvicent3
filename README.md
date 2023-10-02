@@ -1,8 +1,6 @@
-![🤗CV-Community-Course]
+[🤗CV-Community-Course](https://img.shields.io/badge/Join-here-cc9900?style=for-the-badge&logo=huggingface&logoColor=white)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">New computer vision course at <a href="https://twitter.com/huggingface?ref_src=twsrc%5Etfw">@huggingface</a> is cooking and best part is that it&#39;s led by community! ✊🏻✊🏽✊🏿<br><br>If you&#39;d like to join the effort, join our discord at <a href="https://t.co/oypnDIBYRD">https://t.co/oypnDIBYRD</a> and take the role open-source and meet us at cv-community-project channel 🤗 <a href="https://t.co/hUssdtooOX">pic.twitter.com/hUssdtooOX</a></p>&mdash; merve (@mervenoyann) <a href="https://twitter.com/mervenoyann/status/1708779785726382119?ref_src=twsrc%5Etfw">October 2, 2023</a></blockquote> 
-
-![🤗CV-Community-Course](https://img.shields.io/badge/Join-here-cc9900?style=for-the-badge&logo=huggingface&logoColor=white)
 
 **🧑‍💻 Languages**
 
