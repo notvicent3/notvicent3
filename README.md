@@ -37,7 +37,7 @@
 
 **📧 Contact**
 
-[![X.com](https://img.shields.io/badge/@notvicent3-red?style=for-the-badge)](https://x.com/notvicent3)
+[![X.com](https://img.shields.io/badge/@notvicent3-black?style=for-the-badge)](https://x.com/notvicent3)
 
 [![X.com](https://img.shields.io/badge/BadPiggiesDrip-pink?style=for-the-badge)](https://www.youtube.com/watch?v=dkM9GxaCow4) ![image](https://github.com/notvicent3/notvicent3/assets/132854638/6a261e33-9af9-4881-afe8-e5f78de9f08e) ![image](https://github.com/notvicent3/notvicent3/assets/132854638/2e421f4c-593d-4f9e-9587-90f09ef6a37e)
 
