@@ -43,5 +43,4 @@
 **📧 Contact**
 
 [![X.com](https://img.shields.io/badge/@notvicent3-black?style=for-the-badge)](https://x.com/notvicent3)
-
 [![BadPiggiesSong](https://img.shields.io/badge/BadPiggiesDrip-pink?style=for-the-badge)](https://www.youtube.com/watch?v=dkM9GxaCow4) ![image](https://github.com/notvicent3/notvicent3/assets/132854638/7193454e-18c8-4bfd-821e-145fc44d0963)
