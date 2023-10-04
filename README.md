@@ -46,14 +46,4 @@
 
 [![X.com](https://img.shields.io/badge/BadPiggiesDrip-pink?style=for-the-badge)](https://www.youtube.com/watch?v=dkM9GxaCow4)
 
-![image](https://github.com/notvicent3/notvicent3/assets/132854638/240e75f1-920e-4c92-ae1a-3319b3fbfb89)
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/notvicent3/notvicent3/assets/132854638/ab037a16-8b54-410e-a75b-8e5a40b9a964)
