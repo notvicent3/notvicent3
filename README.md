@@ -34,7 +34,7 @@
 
 [![Button](https://img.shields.io/badge/GPTRESEARCHER-Show2USyourLOVE-purple?style=for-the-badge)](https://github.com/assafelovic/gpt-researcher) 
 
-*Help us contributing, please  👉* [GPT-Researcher](https://github.com/assafelovic/gpt-researcher/blob/master/CONTRIBUTING.md) 
+*Help the project contributing  👉* [GPT-Researcher](https://github.com/assafelovic/gpt-researcher/blob/master/CONTRIBUTING.md) 
 
 **📖 Wiki3 🧡** 
 
