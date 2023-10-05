@@ -39,12 +39,3 @@
 **📖 Wiki3 🧡** 
 
 [![Button](https://img.shields.io/badge/WikiTRES-orange?style=for-the-badge)](https://github.com/notvicent3/wiki3) 
-
-**📧 Contact**
-
-[![X.com](https://img.shields.io/badge/@notvicent3-black?style=for-the-badge)](https://x.com/notvicent3)
-[![BadPiggiesSong](https://img.shields.io/badge/BadPiggiesDrip-pink?style=for-the-badge)](https://www.youtube.com/watch?v=dkM9GxaCow4) 
-
-*Valencià parlant Anglés, Català, Espanyol i Aranés incluint llenguatges que sols entenen ordinadors i programadors*
-
-![image](https://github.com/notvicent3/notvicent3/assets/132854638/7193454e-18c8-4bfd-821e-145fc44d0963)
